@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'pragmaticalightcregular';
+    src: url('fonts/pragmaticalightc-webfont.eot');
+    src: url('fonts/pragmaticalightc-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/pragmaticalightc-webfont.woff') format('woff'),
+         url('fonts/pragmaticalightc-webfont.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+
+}
